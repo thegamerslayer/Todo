@@ -1,4 +1,3 @@
-Here’s a fancy README for your project:
 
 ---
 
