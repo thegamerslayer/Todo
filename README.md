@@ -116,10 +116,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 
-## 🎉 Acknowledgments
 
-- Thanks to all developers and contributors who made this project possible.
-- Special thanks to the **Java** community for their inspiration and support.
 
 ---
 
