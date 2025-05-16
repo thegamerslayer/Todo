@@ -21,7 +21,7 @@ import com.todo.todoBasic.service.TaskAnalyticsService;
 import com.todo.todoBasic.service.TodoService;
 
 @RestController
-@RequestMapping(("/todos"))
+@RequestMapping("/todos")
 public class TodoController{
   
      @Autowired
